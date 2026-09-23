@@ -1,0 +1,4 @@
+Replace this file with your real resume, for example:
+public/resume/Muhammad-Javed-Resume.pdf
+
+Then update the resume hrefs in src/components/Portfolio.tsx.
